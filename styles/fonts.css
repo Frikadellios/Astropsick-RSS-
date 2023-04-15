@@ -1,0 +1,7 @@
+import "@fontsource/titan-one"
+import "@fontsource/inter"
+import "@fontsource/montserrat"
+import 'animate.css';
+body { font-family: "Titan One", cursive; }
+
+import yml from './data.yml';
